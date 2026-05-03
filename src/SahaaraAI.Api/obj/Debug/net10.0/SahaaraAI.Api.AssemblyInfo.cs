@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SahaaraAI.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15caa450f8fc24f088e5687f32a6880ac8ff39f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SahaaraAI.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SahaaraAI.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
