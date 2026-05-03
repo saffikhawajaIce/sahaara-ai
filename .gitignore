@@ -1,0 +1,69 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# .NET
+*.nupkg
+project.lock.json
+project.assets.json
+artifacts/
+
+# Test results
+TestResults/
+coverage/
+coverage.xml
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+appsettings.Production.json
+appsettings.Local.json
+secrets.json
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Node / frontend
+node_modules/
+dist/
+build/
+.next/
+out/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker overrides
+docker-compose.override.yml
+
+# OS files
+.DS_Store
+Thumbs.db
