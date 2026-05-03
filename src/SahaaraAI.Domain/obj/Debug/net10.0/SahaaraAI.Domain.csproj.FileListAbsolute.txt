@@ -1,0 +1,11 @@
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\bin\Debug\net10.0\SahaaraAI.Domain.deps.json
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\bin\Debug\net10.0\SahaaraAI.Domain.dll
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\bin\Debug\net10.0\SahaaraAI.Domain.pdb
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\SahaaraAI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\SahaaraAI.Domain.AssemblyInfoInputs.cache
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\SahaaraAI.Domain.AssemblyInfo.cs
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\SahaaraAI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\SahaaraAI.Domain.dll
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\refint\SahaaraAI.Domain.dll
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\SahaaraAI.Domain.pdb
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\ref\SahaaraAI.Domain.dll

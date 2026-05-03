@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SahaaraAI.Api/SahaaraAI.Api.csproj" />
+    <Project Path="src/SahaaraAI.Application/SahaaraAI.Application.csproj" />
+    <Project Path="src/SahaaraAI.Domain/SahaaraAI.Domain.csproj" />
+    <Project Path="src/SahaaraAI.Infrastructure/SahaaraAI.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SahaaraAI.ArchitectureTests/SahaaraAI.ArchitectureTests.csproj" />
+    <Project Path="tests/SahaaraAI.IntegrationTests/SahaaraAI.IntegrationTests.csproj" />
+    <Project Path="tests/SahaaraAI.UnitTests/SahaaraAI.UnitTests.csproj" />
+  </Folder>
+</Solution>

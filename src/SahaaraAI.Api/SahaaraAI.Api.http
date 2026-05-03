@@ -1,0 +1,6 @@
+@SahaaraAI.Api_HostAddress = http://localhost:5186
+
+GET {{SahaaraAI.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
