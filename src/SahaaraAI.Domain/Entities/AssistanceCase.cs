@@ -33,7 +33,7 @@ public class AssistanceCase : AuditableEntity
     public DateTime? ClosedAt { get; set; }
 
     // Navigation
-    // public virtual ICollection<CaseNote> Notes { get; set; }
-    // public virtual ICollection<CaseNgoMatch> NgoMatches { get; set; }
-    // public virtual ICollection<OutreachMessage> OutreachMessages { get; set; }
+    public virtual ICollection<CaseNote> Notes { get; set; }
+    public virtual ICollection<CaseNgoMatch> NgoMatches { get; set; }
+    public virtual ICollection<OutreachMessage> OutreachMessages { get; set; }
 }
