@@ -1,8 +1,8 @@
-namespace SahaaraAI.Domain.Enums
+namespace SahaaraAI.Domain.Enums;
+
+public enum FollowUpStatus
 {
-    public enum FollowUpStatus
-    {
-        Pending = 0,
-        Completed = 1
-    }
+    Pending = 0,
+    Completed = 1,
+    Cancelled = 2
 }

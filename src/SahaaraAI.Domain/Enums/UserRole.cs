@@ -1,9 +1,7 @@
-namespace SahaaraAI.Domain.Enums
+namespace SahaaraAI.Domain.Enums;
+
+public enum UserRole
 {
-    public enum UserRole
-    {
-        Admin = 0,
-        User = 1,
-        Guest = 2
-    }
+    Admin = 0,
+    CaseWorker = 1
 }

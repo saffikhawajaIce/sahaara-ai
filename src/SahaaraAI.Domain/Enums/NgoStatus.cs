@@ -1,9 +1,8 @@
-namespace SahaaraAI.Domain.Enums
+namespace SahaaraAI.Domain.Enums;
+
+public enum NgoStatus
 {
-    public enum NgoStatus
-    {
-        Active = 0,
-        Inactive = 1,
-        Suspended = 2
-    }
+    Active = 0,
+    Inactive = 1,
+    Unreachable = 2
 }

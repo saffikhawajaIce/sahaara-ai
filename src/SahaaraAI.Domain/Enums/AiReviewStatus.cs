@@ -2,8 +2,9 @@ namespace SahaaraAI.Domain.Enums;
 
 public enum AiReviewStatus
 {
-    Pending = 0,
-    Approved = 1,
-    Rejected = 2,
-    NeedsMoreInfo = 3
+    NotGenerated = 0,
+    Generated = 1,
+    Reviewed = 2,
+    Edited = 3,
+    Rejected = 4
 }
