@@ -10,3 +10,4 @@ C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\refint\SahaaraAI
 C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\SahaaraAI.Domain.pdb
 C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\ref\SahaaraAI.Domain.dll
 C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\SahaaraAI.Domain.sourcelink.json
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Domain\obj\Debug\net10.0\SahaaraAI.Domain.csproj.AssemblyReference.cache
