@@ -8,9 +8,9 @@ C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Application\obj\Debug\net10.0\SahaaraAI.A
 C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Application\obj\Debug\net10.0\SahaaraAI.Application.AssemblyInfoInputs.cache
 C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Application\obj\Debug\net10.0\SahaaraAI.Application.AssemblyInfo.cs
 C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Application\obj\Debug\net10.0\SahaaraAI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Application\obj\Debug\net10.0\SahaaraAI.Application.sourcelink.json
 C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Application\obj\Debug\net10.0\SahaaraA.2D7A3E88.Up2Date
 C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Application\obj\Debug\net10.0\SahaaraAI.Application.dll
 C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Application\obj\Debug\net10.0\refint\SahaaraAI.Application.dll
 C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Application\obj\Debug\net10.0\SahaaraAI.Application.pdb
 C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Application\obj\Debug\net10.0\ref\SahaaraAI.Application.dll
-C:\Users\Saffi\SahaaraAI\src\SahaaraAI.Application\obj\Debug\net10.0\SahaaraAI.Application.sourcelink.json
