@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SahaaraAI.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e075b3142e8dcf0f447b27d2ef0e0948e9c5a1e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f498477d39fc046ea941fe173060e39dec4a9cd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SahaaraAI.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SahaaraAI.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

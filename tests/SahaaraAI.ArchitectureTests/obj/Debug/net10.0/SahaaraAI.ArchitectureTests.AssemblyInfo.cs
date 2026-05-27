@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SahaaraAI.ArchitectureTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a75359568e4f9361b50850442bb46898980af43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f498477d39fc046ea941fe173060e39dec4a9cd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SahaaraAI.ArchitectureTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SahaaraAI.ArchitectureTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
